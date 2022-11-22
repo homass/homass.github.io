@@ -46,3 +46,36 @@ a{
 	text-decoration: none;
 	color: rgb(255, 0, 0);
 }
+.categories li{
+	list-style-image: url('../HTML/Images/check.png');
+}
+.my_form{
+	margin: 20 110;
+	padding: 10 px;
+}
+
+.my_form .from_group{
+	padding-bottom: 10px;
+}
+.my_form label{
+	display: block;
+}
+
+.my_form input[type="text"], .my_form textarea{
+	padding: 8px;
+	width: 50%;
+	color: thistle;
+}
+
+.my_form input[type="submit"]{
+	background-color: rgb(213, 221, 221);
+	color:rgb(0, 0, 0);
+	width: 200px;
+	height: 30px;
+	margin: 20px 12%;
+}
+/* .my_form button{
+	height: 30;
+	width: 20%;
+	background-color: rgb(230, 199, 180);
+} */

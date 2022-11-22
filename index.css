@@ -47,7 +47,7 @@ a{
 	color: rgb(255, 0, 0);
 }
 .categories li{
-	list-style-image: url('../HTML/Images/check.png');
+	list-style-image: url('check.png');
 }
 .my_form{
 	margin: 20 110;
